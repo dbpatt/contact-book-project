@@ -1,1 +1,1 @@
-# contactbook
+#This code implements a Contact Book Manager that combines a linked list for maintaining alphabetical order and a hash table for fast lookups. The Contact class represents each contact, storing their name, phone number, email, and a pointer to the next contact. The ContactBook class provides core functionality: adding contacts in alphabetical order, searching for contacts in constant time using the hash table, deleting contacts, updating contact details, and displaying all contacts in order. 
